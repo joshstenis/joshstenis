@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joshstenis
+- 👀 I’m a Computer Science student at the University of Oklahoma.
+- 🌱 I’m currently learning Node.js and React.js, as well as concepts concerning automaton computation and the inner workings of operating systems (emphasis on Linux).
+- 📫 How to reach me: joshua.stenis@gmail.com
